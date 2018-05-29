@@ -1,3 +1,9 @@
+> **警告**:
+>
+> 此包移动到[https://github.com/scofieldpeng/config-go](https://github.com/scofieldpeng/config-go)
+>
+> 该仓库仅作为备份不再维护！！！
+
 # config
 
 一款简单的配置服务,使用.ini 文件来作为配置源
